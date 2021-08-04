@@ -9,4 +9,4 @@ These scripts are not necessarily connected to eachother. No order is implied ab
 
 ## Citation
 If you use this code in some part or way, please cite our paper:
->Name. Name. ... Name. 2020. Title. _journal_. Vol.(Iss.):pages.
+>Pickett BD, Glass JR, Ridge PG, Kauwe JSK. 2021. _De novo_ genome assembly of the marine teleost, Bluefin Trevally (_Caranx melampygus_). _G3 Genes|Genomes|Genetics_ Accepted Manuscript, DOI: [10.1093/g3journal/jkab229](https://doi.org/10.1093/g3journal/jkab229).
